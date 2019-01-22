@@ -1,0 +1,7 @@
+Continous Interdiction
+Run time - 0.2226
+Iters - 2
+
+Discrete Interdiction
+Run time - 0.1636
+Iters - 3

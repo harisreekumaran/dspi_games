@@ -1,0 +1,9 @@
+# Players - 2
+
+Budgets - [9, 10]
+
+Source Target 
+     1    38
+     1    15
+Format for network file - 1 row per edge
+Tail, Head, InitialLength, ArcExtension, Costs

@@ -1,0 +1,9 @@
+File format:
+- basic information: {nbNodes, nbArcs, nbScenarios}
+- arc information
+- \delta^+(v) for each node v
+- \delta^-(v) for each node v
+- arc cost for all scenarios
+- arc interdiction effect for all scenarios
+- arc interdiction cost
+
